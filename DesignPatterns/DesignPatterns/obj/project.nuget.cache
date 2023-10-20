@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fl28VpM77wikDCmJttnt36HSe7H+nuY5NfFDXGxuWPe6AaBsL0lE3i9NDvgk1eS7O8AhyrKyejym1Q0lLFVrZA==",
+  "success": true,
+  "projectFilePath": "/Users/archon/Documents/GitHub/CommandPatterns/DesignPatterns/DesignPatterns/DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "/Users/archon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/archon/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.22/microsoft.netcore.app.host.osx-arm64.6.0.22.nupkg.sha512",
+    "/Users/archon/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
