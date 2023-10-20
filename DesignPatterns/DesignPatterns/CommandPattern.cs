@@ -4,6 +4,7 @@ namespace DesignPatterns
     public interface Command
     {
         public void execute();
+        public void undo();
     }
 
     class Light
@@ -18,6 +19,8 @@ namespace DesignPatterns
         {
             Console.WriteLine("Light is off");
         }
+
+
     }
 
     class LightOnCommand : Command
@@ -32,6 +35,10 @@ namespace DesignPatterns
         public void execute()
         {
             light.on();
+        }
+        public void undo()
+        {
+            light.off();
         }
     }
 
@@ -48,6 +55,11 @@ namespace DesignPatterns
         public void execute()
         {
             light.off();
+        }
+
+        public void undo()
+        {
+            light.on();
         }
     }
 
