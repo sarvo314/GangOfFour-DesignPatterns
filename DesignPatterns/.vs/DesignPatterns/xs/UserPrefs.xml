@@ -1,24 +1,14 @@
 ﻿<Properties StartupConfiguration="{5DB36BB8-5440-473F-A370-96150E500A99}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/EmptyClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignPatterns/CommandPattern.cs">
     <Files>
-      <File FileName="DesignPatterns/CommandPattern.cs" Line="129" Column="1" />
+      <File FileName="DesignPatterns/CommandPattern.cs" Line="12" Column="1" />
       <File FileName="DesignPatterns/EmptyClass.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DesignPatterns" expanded="True">
-            <Node name="DesignPatterns" expanded="True">
-              <Node name="EmptyClass.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="DesignPatterns" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
@@ -26,4 +16,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DesignPatterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
