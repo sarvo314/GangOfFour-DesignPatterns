@@ -28,8 +28,4 @@ public sealed class GameEnvironment : MonoBehaviour
         int index = obstacles.IndexOf(go);
         obstacles.RemoveAt(index);
     }
-
-
-
-
 }
